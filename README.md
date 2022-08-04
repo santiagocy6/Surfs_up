@@ -10,4 +10,6 @@ The three key differences in weather between June and December are as follows:
 3. At the higher percentile 75th and max, the difference converges with december still being a bit lower with 75th percentile at 74 F in december and 71 F in june. The max temperation at 83 F in december and 85 F in june.
 4. The number of datapoints in december is less than june (1517 vs 1700)
 
+(https://github.com/santiagocy6/Surfs_up/blob/main/June%20Statitics.png)
+
 
